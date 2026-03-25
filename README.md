@@ -53,4 +53,4 @@ Google Sheets for data validation.
 - charts/ — Dashboard screenshots
 
 # Dashboard Preview
-![Full Dashboard](PBI_07_Full_dashboard.png)
+![Full Dashboard](PBI_07_Full_dashboard.PNG)  
