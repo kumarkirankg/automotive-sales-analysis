@@ -42,15 +42,15 @@ Male buyers accounted for 78.6% of transactions. Female buyers
 had a slightly higher average purchase price of $28,277 versus 
 $28,039 for male buyers.
 
-## Tools Used
+# Tools Used
 SQL for data analysis and querying.
 Power BI for interactive dashboard and visualisation.
 Google Sheets for data validation.
 
-## Files in This Repository
+# Files in This Repository
 - automotive_sales_analysis.sql — 15 SQL queries covering all analyses
 - automotive_sales_dashboard.pbix — Power BI dashboard file
 - charts/ — Dashboard screenshots
 
-## Dashboard Preview
-![Full Dashboard](charts/PBI_00_full_dashboard.PNG)
+# Dashboard Preview
+![Full Dashboard](PBI_00_full_dashboard.PNG)
