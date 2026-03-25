@@ -20,8 +20,8 @@ across 2022 to 2023.
 ## Key Findings
 
 **Brand Performance**
-Chevrolet led all brands with 1,819 units. Top 3 brands — 
-Chevrolet, Dodge and Ford — accounted for 21% of total volume.
+Chevrolet led all brands with 1,819 units. Top 3 brands -
+Chevrolet, Dodge and Ford - accounted for 21% of total volume.
 
 **Year on Year Growth**
 Sales grew from 10,645 units in 2022 to 13,261 units in 2023, 
@@ -48,9 +48,9 @@ Power BI for interactive dashboard and visualisation.
 Google Sheets for data validation.
 
 # Files in This Repository
-- automotive_sales_analysis.sql — 15 SQL queries covering all analyses
-- automotive_sales_dashboard.pbix — Power BI dashboard file
-- charts/ — Dashboard screenshots
+- automotive_sales_analysis.sql - 15 SQL queries covering all analyses
+- automotive_sales_dashboard.pbix - Power BI dashboard file
+- charts/ - Dashboard screenshots
 
 # Dashboard Preview
 ![Full Dashboard](PBI_07_Full_dashboard.PNG)  
